@@ -18,8 +18,8 @@
   {
     "id": "kevin-john",
     "name": "Kevin John",
-    "dodge": false,
-    "dodgeSeconds": 0,
+    "dodge": true,
+    "dodgeSeconds": 5,
     "message": "Here is to a beautiful marriage and a lifetime of choosing each other every day.",
     "noMessage": "Kevin says the secret is too good to miss."
   },
@@ -98,18 +98,26 @@
   {
     "id": "nethaji",
     "name": "Nethaji",
-    "dodge": false,
-    "dodgeSeconds": 0,
+    "dodge": true,
+    "dodgeSeconds": 5,
     "message": "May your marriage be full of joyful mornings, peaceful evenings, and loving memories.",
     "noMessage": "Nethaji says you should give that button another chance."
   },
   {
     "id": "waheed",
     "name": "Waheed",
-    "dodge": true,
+    "dodge": false,
     "dodgeSeconds": 2,
     "message": "Here is to a lifetime of partnership, patience, laughter, and beautiful new beginnings.",
     "noMessage": "Waheed says the secret is definitely worth catching!"
+  },
+    {
+    "id": "sami",
+    "name": "Sami",
+    "dodge": false,
+    "dodgeSeconds": 0,
+    "message": "Congratulations! May your togetherness be your greatest adventure yet.",
+    "noMessage": "Sami says curiosity looks good on you."
   },
   {
     "id": "vignesh",
