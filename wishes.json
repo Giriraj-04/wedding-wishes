@@ -1,0 +1,122 @@
+[
+  {
+    "id": "arun",
+    "name": "Arun",
+    "dodge": false,
+    "dodgeSeconds": 0,
+    "message": "Wishing you both a lifetime of laughter, love, and wonderful memories.",
+    "noMessage": "Arun says you should definitely be more curious!"
+  },
+  {
+    "id": "dikshit-r",
+    "name": "Dikshit R",
+    "dodge": true,
+    "dodgeSeconds": 3,
+    "message": "May your new journey together be filled with happiness, adventure, and endless smiles.",
+    "noMessage": "Dikshit is keeping this secret very seriously!"
+  },
+  {
+    "id": "kevin-john",
+    "name": "Kevin John",
+    "dodge": false,
+    "dodgeSeconds": 0,
+    "message": "Here is to a beautiful marriage and a lifetime of choosing each other every day.",
+    "noMessage": "Kevin says the secret is too good to miss."
+  },
+  {
+    "id": "giriraj",
+    "name": "Giriraj",
+    "dodge": false,
+    "dodgeSeconds": 0,
+    "message": "May your love grow stronger, your laughter grow louder, and your home grow warmer.",
+    "noMessage": "Giriraj is making you work for this one!"
+  },
+  {
+    "id": "vinay-p",
+    "name": "Vinay P",
+    "dodge": false,
+    "dodgeSeconds": 0,
+    "message": "Wishing you two a lifetime of sweet moments, big dreams, and shared celebrations.",
+    "noMessage": "Vinay says no is not a very convincing answer."
+  },
+  {
+    "id": "umesh-kumar",
+    "name": "Umesh Kumar",
+    "dodge": true,
+    "dodgeSeconds": 3,
+    "message": "May every day of your married life bring a new reason to smile together.",
+    "noMessage": "Umesh has hidden the answer somewhere nearby."
+  },
+  {
+    "id": "sukanya",
+    "name": "Sukanya",
+    "dodge": false,
+    "dodgeSeconds": 0,
+    "message": "May your marriage be filled with kindness, friendship, and countless happy surprises.",
+    "noMessage": "Sukanya knows you want to know!"
+  },
+  {
+    "id": "rohit-kumar",
+    "name": "Rohit Kumar",
+    "dodge": true,
+    "dodgeSeconds": 3,
+    "message": "Wishing you a love story that gets more joyful and unforgettable with every year.",
+    "noMessage": "Rohit says the secret will not reveal itself!"
+  },
+  {
+    "id": "harshith",
+    "name": "Harshith",
+    "dodge": false,
+    "dodgeSeconds": 0,
+    "message": "May your life together be rich with laughter, peace, and beautiful shared adventures.",
+    "noMessage": "Harshith is waiting for you to change your mind."
+  },
+  {
+    "id": "bodhishree",
+    "name": "Bodhishree",
+    "dodge": true,
+    "dodgeSeconds": 5,
+    "message": "May your hearts always find their way back to love, laughter, and each other.",
+    "noMessage": "Bodhishree says this secret deserves a little chase!"
+  },
+  {
+    "id": "rakesh",
+    "name": "Rakesh",
+    "dodge": false,
+    "dodgeSeconds": 0,
+    "message": "Congratulations! May your togetherness be your greatest adventure yet.",
+    "noMessage": "Rakesh says curiosity looks good on you."
+  },
+  {
+    "id": "bijay",
+    "name": "Bijay",
+    "dodge": true,
+    "dodgeSeconds": 2,
+    "message": "Wishing you both a lifetime of love, luck, laughter, and lovely surprises.",
+    "noMessage": "Bijay has put this wish under top-secret protection."
+  },
+  {
+    "id": "nethaji",
+    "name": "Nethaji",
+    "dodge": false,
+    "dodgeSeconds": 0,
+    "message": "May your marriage be full of joyful mornings, peaceful evenings, and loving memories.",
+    "noMessage": "Nethaji says you should give that button another chance."
+  },
+  {
+    "id": "waheed",
+    "name": "Waheed",
+    "dodge": true,
+    "dodgeSeconds": 2,
+    "message": "Here is to a lifetime of partnership, patience, laughter, and beautiful new beginnings.",
+    "noMessage": "Waheed says the secret is definitely worth catching!"
+  },
+  {
+    "id": "vignesh",
+    "name": "Vignesh",
+    "dodge": false,
+    "dodgeSeconds": 0,
+    "message": "May your love shine brighter with every celebration and every ordinary day in between.",
+    "noMessage": "Vignesh says one little tap could solve the mystery."
+  }
+]

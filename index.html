@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en-IN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#4a0d1b">
+  <title>Congratulations, Asha &amp; Athish!</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js?v=2" defer></script>
+</head>
+<body>
+  <div class="petal-field" aria-hidden="true"></div>
+  <div class="site-shell">
+    <header class="site-header" aria-label="Wedding wishes">
+      <p class="eyebrow">A tiny surprise from the people who love you</p>
+      <div class="header-rule"><span>✦</span></div>
+    </header>
+
+    <main>
+      <section id="welcome-screen" class="screen is-active" aria-labelledby="welcome-title">
+        <div class="welcome-crest" aria-hidden="true">ॐ</div>
+        <p class="kicker">With love, laughter &amp; a little mischief</p>
+        <h1 id="welcome-title">Congratulations<br><span>Bride &amp; Groom!</span></h1>
+        <p class="welcome-copy">Your friends have gathered a few heartfelt wishes.<br>There may be one or two surprises hiding inside.</p>
+        <button id="begin-button" class="button button-gold" type="button">Begin <span aria-hidden="true">→</span></button>
+      </section>
+
+      <section id="wish-screen" class="screen" aria-labelledby="wish-heading" hidden>
+        <div class="progress-row">
+          <span id="wish-count">Wish 1 of 6</span>
+          <span class="progress-mark" aria-hidden="true">✦</span>
+        </div>
+        <article class="mandap-card" id="mandap-card">
+          <div class="card-corner card-corner-tl" aria-hidden="true">❈</div>
+          <div class="card-corner card-corner-tr" aria-hidden="true">❈</div>
+          <div class="card-corner card-corner-bl" aria-hidden="true">❈</div>
+          <div class="card-corner card-corner-br" aria-hidden="true">❈</div>
+          <div class="card-content">
+            <div id="reveal-panel" class="reveal-panel" aria-live="polite" hidden>
+              <div id="photo-placeholder" class="photo-placeholder" aria-label="Photo placeholder"></div>
+              <p class="sent-by">This wish is from</p>
+              <h3 id="friend-name"></h3>
+              <p id="friend-message" class="friend-message"></p>
+            </div>
+            <div class="mini-mandala" aria-hidden="true"><span>✦</span></div>
+            <p class="card-label">A secret wish awaits</p>
+            <h2 id="wish-heading">Do you want to know<br>who sent this wish?</h2>
+            <p id="dodge-status" class="status-message" aria-live="polite"></p>
+            <div id="action-zone" class="action-zone">
+              <button id="yes-button" class="button button-yes" type="button">Yes, tell me!</button>
+              <button id="no-button" class="button button-no" type="button">No, keep it secret</button>
+              <button id="next-button" class="button button-gold" type="button" hidden>Next wish <span aria-hidden="true">→</span></button>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <section id="final-screen" class="screen" aria-labelledby="final-title" hidden>
+        <div class="final-crest" aria-hidden="true">✦</div>
+        <p class="kicker">And that is a wrap</p>
+        <h2 id="final-title">Best wishes from<br><span>all your friends</span></h2>
+        <p class="final-copy">May your life together be filled with the kind of joy that makes every day feel like a celebration.</p>
+        <div class="final-garland" aria-hidden="true">❈　✦　❈　✦　❈</div>
+      </section>
+    </main>
+
+    <footer class="site-footer"><span>Made with mischief &amp; good wishes</span></footer>
+  </div>
+  <div id="confetti-layer" class="confetti-layer" aria-hidden="true"></div>
+</body>
+</html>
